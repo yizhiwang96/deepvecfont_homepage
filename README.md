@@ -5,13 +5,11 @@ Authors: [Yizhi Wang](https://yizhiwang96.github.io/) and [Zhouhui Lian](https:/
 
 Affiliation: Wangxuan Institute of Computer Technology, Peking University.
 
-Paper: to be published soon 
+Paper: to be published soon  Code: [GitHub](https://github.com/yizhiwang96/deepvecfont)
 
 Supplementary Material:  to be published soon
 
 Video: [link]() 
-
-Code: [GitHub](https://github.com/yizhiwang96/deepvecfont)  
 
 ## Introduction
 
