@@ -1,5 +1,9 @@
-# DeepVecFont: Synthesizing High-quality Vector Fonts via Dual-modality Learning
-[Yizhi Wang](https://yizhiwang96.github.io/) and [Zhouhui Lian](https://www.icst.pku.edu.cn/zlian/). WICT, Peking University.
+# DeepVecFont
+This is the homepage for SIGGRAPH 2021 Technical paper "DeepVecFont: Synthesizing High-quality Vector Fonts via Dual-modality Learning".
+
+Authors: [Yizhi Wang](https://yizhiwang96.github.io/) and [Zhouhui Lian](https://www.icst.pku.edu.cn/zlian/). 
+
+Affiliation: Wangxuan Institute of Computer Technology, Peking University.
 
 ## Introduction
 
