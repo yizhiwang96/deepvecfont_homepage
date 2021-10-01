@@ -1,16 +1,13 @@
 # DeepVecFont
 This is the homepage for SIGGRAPH 2021 Technical paper "DeepVecFont: Synthesizing High-quality Vector Fonts via Dual-modality Learning".
 
-Authors: [Yizhi Wang](https://yizhiwang96.github.io/) and [Zhouhui Lian](https://www.icst.pku.edu.cn/zlian/). 
+Authors: [Yizhi Wang](https://yizhiwang96.github.io/) and [Zhouhui Lian](https://www.icst.pku.edu.cn/zlian/). Wangxuan Institute of Computer Technology, Peking University.
 
-Affiliation: Wangxuan Institute of Computer Technology, Peking University.
+Paper: to be published soon
 
-Paper: to be published soon         Code: [GitHub](https://github.com/yizhiwang96/deepvecfont)
-
-Supplementary Material:  to be published soon
+Code: [GitHub](https://github.com/yizhiwang96/deepvecfont)
 
 Video: [link]()
-
 
 ## Introduction
 
