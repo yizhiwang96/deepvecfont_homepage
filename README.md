@@ -7,7 +7,10 @@ Paper: to be published soon
 
 Code: [GitHub](https://github.com/yizhiwang96/deepvecfont)
 
-Video: [link]()
+Video: 
+<div align=center>
+	<video src="imgs/dvf_ff_v2.1.mp4"> 
+</div>
 
 ## Abstract
 Automatic font generation based on deep learning has aroused a lot of interest in the last decade. However, only a few recently-reported approaches are capable of directly generating vector glyphs and their results are still far from satisfactory. In this paper, we propose a novel method, DeepVecFont, to effectively resolve this problem. Using our method, for the first time, visually-pleasing vector glyphs whose quality and compactness are both comparable to human-designed ones can be automatically generated. The key idea of our DeepVecFont is to adopt the techniques of image synthesis, sequence modeling and differentiable rasterization to exhaustively exploit the dual-modality information (i.e., raster images and vector outlines) of vector fonts. 
