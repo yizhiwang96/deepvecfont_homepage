@@ -9,7 +9,7 @@ Code: [GitHub](https://github.com/yizhiwang96/deepvecfont)
 
 Video: 
 <div align=center>
-<video width="960" height="540" controls="controls">
+<video width="640" height="360" controls="controls">
   <source src="imgs/dvf_ff_v2.1.mp4" type="video/mp4" />
 </video>
 </div>
