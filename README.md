@@ -5,7 +5,7 @@ This is the homepage for "DeepVecFont: Synthesizing High-quality Vector Fonts vi
 
 Paper: to be published soon
 
-Code: [GitHub](https://github.com/yizhiwang96/deepvecfont)
+**Code:** [**GitHub**](https://github.com/yizhiwang96/deepvecfont)
 
 Video: 
 <div align=center>
