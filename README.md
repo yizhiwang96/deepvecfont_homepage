@@ -3,7 +3,7 @@
 
 This is the homepage for "DeepVecFont: Synthesizing High-quality Vector Fonts via Dual-modality Learning". [Yizhi Wang](https://yizhiwang96.github.io/) and [Zhouhui Lian](https://www.icst.pku.edu.cn/zlian/). WICT, Peking University.
 
-Paper: to be published soon
+**Paper:** [**Arxiv**](https://arxiv.org/abs/2110.06688)
 
 **Code:** [**GitHub**](https://github.com/yizhiwang96/deepvecfont)
 
