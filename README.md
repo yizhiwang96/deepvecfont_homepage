@@ -276,7 +276,14 @@ Outlines:
 	<img src="imgs/font_35/syn/35_17.svg">
 	<img src="imgs/font_35/syn/35_00.svg">
 	<img src="imgs/font_35/syn/35_15.svg"> 
-	<img src="imgs/font_35/syn/35_07.svg"> 
+	<img src="imgs/font_35/syn/35_07.svg">
+	<img src="imgs/font_35/syn/35_21.svg"> 
+	<img src="imgs/font_35/syn/35_30.svg"> 
+	<img src="imgs/font_35/syn/35_28.svg"> 
+	<img src="imgs/font_35/syn/35_05.svg"> 
+	<img src="imgs/font_35/syn/35_40.svg">
+	<img src="imgs/font_35/syn/35_39.svg"> 
+	<img src="imgs/font_35/syn/35_45.svg"> 
 	<br/>
 	<img src="imgs/font_35_57_3/syn/35_57_3_18.svg"> 
 	<img src="imgs/font_35_57_3/syn/35_57_3_08.svg"> 
