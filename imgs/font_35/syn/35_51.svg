@@ -106,9 +106,9 @@
 <path class="pen path00" d="M 8.121654510498047 10.406719207763672 L 17.932671546936035 10.762234926223755 " fill="none" stroke="black" stroke-width="0.3"></path>
 <path class="pen path01" d="M 17.932671546936035 10.762234926223755 L 12.797557353973389 19.157249450683594 " fill="none" stroke="black" stroke-width="0.3"></path>
 <path class="pen path02" d="M 12.797557353973389 19.157249450683594 L 16.194165229797363 18.996784687042236 " fill="none" stroke="black" stroke-width="0.3"></path>
-<path class="pen path03" d="M 16.194165229797363 18.996784687042236 L 15.70365571975708 22.691911697387695 " fill="none" stroke="black" stroke-width="0.3"></path>
-<path class="pen path04" d="M 15.70365571975708 22.691911697387695 L 5.645166635513306 22.6780743598938 " fill="none" stroke="black" stroke-width="0.3"></path>
-<path class="pen path05" d="M 5.645166635513306 22.6780743598938 L 11.073280334472656 14.250160217285156 " fill="none" stroke="black" stroke-width="0.3"></path>
+<path class="pen path03" d="M 16.194165229797363 18.996784687042236 L 15.703655719757080 22.691911697387695 " fill="none" stroke="black" stroke-width="0.3"></path>
+<path class="pen path04" d="M 15.703655719757080 22.691911697387695 L 5.645166635513306 22.678074359893799 " fill="none" stroke="black" stroke-width="0.3"></path>
+<path class="pen path05" d="M 5.645166635513306 22.678074359893799 L 11.073280334472656 14.250160217285156 " fill="none" stroke="black" stroke-width="0.3"></path>
 <path class="pen path06" d="M 11.073280334472656 14.250160217285156 L 7.695939302444458 14.119085311889648 " fill="none" stroke="black" stroke-width="0.3"></path>
 <path class="pen path07" d="M 7.695939302444458 14.119085311889648 L 8.121654510498047 10.406719207763672 " fill="none" stroke="black" stroke-width="0.3"></path>
 </svg>

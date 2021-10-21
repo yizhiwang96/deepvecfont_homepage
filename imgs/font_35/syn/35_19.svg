@@ -115,13 +115,13 @@
 	}
 }
 </style>
-<path class="pen path00" d="M 9.955098867416382 5.71916127204895 L 18.297539234161377 5.716512680053711 " fill="none" stroke="black" stroke-width="0.3"></path>
-<path class="pen path01" d="M 18.297539234161377 5.716512680053711 L 17.62189292907715 9.681889057159424 " fill="none" stroke="black" stroke-width="0.3"></path>
-<path class="pen path02" d="M 17.62189292907715 9.681889057159424 L 14.815196514129639 9.874460935592651 " fill="none" stroke="black" stroke-width="0.3"></path>
-<path class="pen path03" d="M 14.815196514129639 9.874460935592651 L 12.850244522094727 22.68397808074951 " fill="none" stroke="black" stroke-width="0.3"></path>
-<path class="pen path04" d="M 12.850244522094727 22.68397808074951 L 8.261433362960815 22.688901901245117 " fill="none" stroke="black" stroke-width="0.3"></path>
-<path class="pen path05" d="M 8.261433362960815 22.688901901245117 C 9.156890630722046 17.389130115509033 9.517453908920288 13.715492248535156 10.21071195602417 9.95708155632019 " fill="none" stroke="black" stroke-width="0.3"></path>
-<path class="pen path06" d="M 10.21071195602417 9.95708155632019 L 7.162166118621826 9.855134010314941 " fill="none" stroke="black" stroke-width="0.3"></path>
+<path class="pen path00" d="M 9.955098867416382 5.719161272048950 L 18.297539234161377 5.716512680053711 " fill="none" stroke="black" stroke-width="0.3"></path>
+<path class="pen path01" d="M 18.297539234161377 5.716512680053711 L 17.621892929077148 9.681889057159424 " fill="none" stroke="black" stroke-width="0.3"></path>
+<path class="pen path02" d="M 17.621892929077148 9.681889057159424 L 14.815196514129639 9.874460935592651 " fill="none" stroke="black" stroke-width="0.3"></path>
+<path class="pen path03" d="M 14.815196514129639 9.874460935592651 L 12.850244522094727 22.683978080749512 " fill="none" stroke="black" stroke-width="0.3"></path>
+<path class="pen path04" d="M 12.850244522094727 22.683978080749512 L 8.261433362960815 22.688901901245117 " fill="none" stroke="black" stroke-width="0.3"></path>
+<path class="pen path05" d="M 8.261433362960815 22.688901901245117 C 9.156890630722046 17.389130115509033 9.517453908920288 13.715492248535156 10.210711956024170 9.957081556320190 " fill="none" stroke="black" stroke-width="0.3"></path>
+<path class="pen path06" d="M 10.210711956024170 9.957081556320190 L 7.162166118621826 9.855134010314941 " fill="none" stroke="black" stroke-width="0.3"></path>
 <path class="pen path07" d="M 7.162166118621826 9.855134010314941 L 7.857600688934326 5.716534852981567 " fill="none" stroke="black" stroke-width="0.3"></path>
-<path class="pen path08" d="M 7.857600688934326 5.716534852981567 L 9.955098867416382 5.71916127204895 " fill="none" stroke="black" stroke-width="0.3"></path>
+<path class="pen path08" d="M 7.857600688934326 5.716534852981567 L 9.955098867416382 5.719161272048950 " fill="none" stroke="black" stroke-width="0.3"></path>
 </svg>

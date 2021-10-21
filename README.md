@@ -220,6 +220,14 @@ Synthesized glyphs by DeepVecFont:
 
 ### Vector font interpolation
 <div align=center>
+	<img src="imgs/font_35_raw/syn/18.svg"> 
+	<img src="imgs/font_35_raw/syn/08.svg"> 
+	<img src="imgs/font_35_raw/syn/06.svg"> 
+	<img src="imgs/font_35_raw/syn/06.svg">
+	<img src="imgs/font_35_raw/syn/17.svg">
+	<img src="imgs/font_35_raw/syn/00.svg">
+	<img src="imgs/font_35_raw/syn/15.svg"> 
+	<img src="imgs/font_35_raw/syn/07.svg">
 	<img src="imgs/font_35/syn/35_18.svg"> 
 	<img src="imgs/font_35/syn/35_08.svg"> 
 	<img src="imgs/font_35/syn/35_06.svg"> 
@@ -229,6 +237,14 @@ Synthesized glyphs by DeepVecFont:
 	<img src="imgs/font_35/syn/35_15.svg"> 
 	<img src="imgs/font_35/syn/35_07.svg"> 
 	<br/>
+	<img src="imgs/font_35_57_3_raw/syn/18.svg"> 
+	<img src="imgs/font_35_57_3_raw/syn/08.svg"> 
+	<img src="imgs/font_35_57_3_raw/syn/06.svg"> 
+	<img src="imgs/font_35_57_3_raw/syn/06.svg">
+	<img src="imgs/font_35_57_3_raw/syn/17.svg">
+	<img src="imgs/font_35_57_3_raw/syn/00.svg">
+	<img src="imgs/font_35_57_3_raw/syn/15.svg"> 
+	<img src="imgs/font_35_57_3_raw/syn/07.svg">
 	<img src="imgs/font_35_57_3/syn/35_57_3_18.svg"> 
 	<img src="imgs/font_35_57_3/syn/35_57_3_08.svg"> 
 	<img src="imgs/font_35_57_3/syn/35_57_3_06.svg"> 
@@ -238,6 +254,14 @@ Synthesized glyphs by DeepVecFont:
 	<img src="imgs/font_35_57_3/syn/35_57_3_15.svg"> 
 	<img src="imgs/font_35_57_3/syn/35_57_3_07.svg"> 	
 	<br/>
+	<img src="imgs/font_35_57_5_raw/syn/18.svg"> 
+	<img src="imgs/font_35_57_5_raw/syn/08.svg"> 
+	<img src="imgs/font_35_57_5_raw/syn/06.svg"> 
+	<img src="imgs/font_35_57_5_raw/syn/06.svg">
+	<img src="imgs/font_35_57_5_raw/syn/17.svg">
+	<img src="imgs/font_35_57_5_raw/syn/00.svg">
+	<img src="imgs/font_35_57_5_raw/syn/15.svg"> 
+	<img src="imgs/font_35_57_5_raw/syn/07.svg"> 
 	<img src="imgs/font_35_57_5/syn/35_57_5_18.svg"> 
 	<img src="imgs/font_35_57_5/syn/35_57_5_08.svg"> 
 	<img src="imgs/font_35_57_5/syn/35_57_5_06.svg"> 
@@ -247,6 +271,14 @@ Synthesized glyphs by DeepVecFont:
 	<img src="imgs/font_35_57_5/syn/35_57_5_15.svg"> 
 	<img src="imgs/font_35_57_5/syn/35_57_5_07.svg"> 	
 	<br/>
+	<img src="imgs/font_35_57_7_raw/syn/18.svg"> 
+	<img src="imgs/font_35_57_7_raw/syn/08.svg"> 
+	<img src="imgs/font_35_57_7_raw/syn/06.svg"> 
+	<img src="imgs/font_35_57_7_raw/syn/06.svg">
+	<img src="imgs/font_35_57_7_raw/syn/17.svg">
+	<img src="imgs/font_35_57_7_raw/syn/00.svg">
+	<img src="imgs/font_35_57_7_raw/syn/15.svg"> 
+	<img src="imgs/font_35_57_7_raw/syn/07.svg">
 	<img src="imgs/font_35_57_7/syn/35_57_7_18.svg"> 
 	<img src="imgs/font_35_57_7/syn/35_57_7_08.svg"> 
 	<img src="imgs/font_35_57_7/syn/35_57_7_06.svg"> 
@@ -256,6 +288,14 @@ Synthesized glyphs by DeepVecFont:
 	<img src="imgs/font_35_57_7/syn/35_57_7_15.svg"> 
 	<img src="imgs/font_35_57_7/syn/35_57_7_07.svg"> 
 	<br/>
+	<img src="imgs/font_57_raw/syn/18.svg"> 
+	<img src="imgs/font_57_raw/syn/08.svg"> 
+	<img src="imgs/font_57_raw/syn/06.svg"> 
+	<img src="imgs/font_57_raw/syn/06.svg">
+	<img src="imgs/font_57_raw/syn/17.svg">
+	<img src="imgs/font_57_raw/syn/00.svg">
+	<img src="imgs/font_57_raw/syn/15.svg"> 
+	<img src="imgs/font_57_raw/syn/07.svg">
 	<img src="imgs/font_57/syn/57_18.svg"> 
 	<img src="imgs/font_57/syn/57_08.svg"> 
 	<img src="imgs/font_57/syn/57_06.svg"> 
