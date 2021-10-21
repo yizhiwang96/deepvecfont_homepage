@@ -106,7 +106,9 @@ def parse_svg_abs(svg_c):
             new_paths.append(cur_path)
     return new_paths, new_paths_lengths
 
-fontid_list = ['02', '12', '41']
+# fontid_list = ['02', '12', '41']
+fontid_list = ['18r']
+
 for fontid in fontid_list:
     if not os.path.exists('./font_' + fontid):
         os.mkdir('./font_' + fontid)
