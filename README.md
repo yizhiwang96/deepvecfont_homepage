@@ -218,6 +218,55 @@ Synthesized glyphs by DeepVecFont:
 	<br/>
 </div>
 
+### Vector font interpolation
+<div align=center>
+	<img src="imgs/font_35/syn/35_18.svg"> 
+	<img src="imgs/font_35/syn/35_08.svg"> 
+	<img src="imgs/font_35/syn/35_06.svg"> 
+	<img src="imgs/font_35/syn/35_06.svg">
+	<img src="imgs/font_35/syn/35_17.svg">
+	<img src="imgs/font_35/syn/35_00.svg">
+	<img src="imgs/font_35/syn/35_15.svg"> 
+	<img src="imgs/font_35/syn/35_07.svg"> 
+	<br/>
+	<img src="imgs/font_35_57_3/syn/35_57_3_18.svg"> 
+	<img src="imgs/font_35_57_3/syn/35_57_3_08.svg"> 
+	<img src="imgs/font_35_57_3/syn/35_57_3_06.svg"> 
+	<img src="imgs/font_35_57_3/syn/35_57_3_06.svg">
+	<img src="imgs/font_35_57_3/syn/35_57_3_17.svg">
+	<img src="imgs/font_35_57_3/syn/35_57_3_00.svg">
+	<img src="imgs/font_35_57_3/syn/35_57_3_15.svg"> 
+	<img src="imgs/font_35_57_3/syn/35_57_3_07.svg"> 	
+	<br/>
+	<img src="imgs/font_35_57_5/syn/35_57_5_18.svg"> 
+	<img src="imgs/font_35_57_5/syn/35_57_5_08.svg"> 
+	<img src="imgs/font_35_57_5/syn/35_57_5_06.svg"> 
+	<img src="imgs/font_35_57_5/syn/35_57_5_06.svg">
+	<img src="imgs/font_35_57_5/syn/35_57_5_17.svg">
+	<img src="imgs/font_35_57_5/syn/35_57_5_00.svg">
+	<img src="imgs/font_35_57_5/syn/35_57_5_15.svg"> 
+	<img src="imgs/font_35_57_5/syn/35_57_5_07.svg"> 	
+	<br/>
+	<img src="imgs/font_35_57_7/syn/35_57_7_18.svg"> 
+	<img src="imgs/font_35_57_7/syn/35_57_7_08.svg"> 
+	<img src="imgs/font_35_57_7/syn/35_57_7_06.svg"> 
+	<img src="imgs/font_35_57_7/syn/35_57_7_06.svg">
+	<img src="imgs/font_35_57_7/syn/35_57_7_17.svg">
+	<img src="imgs/font_35_57_7/syn/35_57_7_00.svg">
+	<img src="imgs/font_35_57_7/syn/35_57_7_15.svg"> 
+	<img src="imgs/font_35_57_7/syn/35_57_7_07.svg"> 
+	<br/>
+	<img src="imgs/font_57/syn/57_18.svg"> 
+	<img src="imgs/font_57/syn/57_08.svg"> 
+	<img src="imgs/font_57/syn/57_06.svg"> 
+	<img src="imgs/font_57/syn/57_06.svg">
+	<img src="imgs/font_57/syn/57_17.svg">
+	<img src="imgs/font_57/syn/57_00.svg">
+	<img src="imgs/font_57/syn/57_15.svg"> 
+	<img src="imgs/font_57/syn/57_07.svg"> 	
+	<br/>
+</div>
+
 ### Random generation (New fonts)
 Rendered:
 <div align=center>

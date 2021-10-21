@@ -99,6 +99,9 @@ def parse_svg_abs(svg_c):
             y3 = coords_str.split(' ')[4]
             x4 = coords_str.split(' ')[5]
             y4 = coords_str.split(' ')[6]
+            #print(coords_str)
+            #print(x2, y2, x3, y3, x4, y4)
+            #input()
             new_paths_lengths.append(cal_bezier_length(3, [[float(cur_x), float(x2), float(x3), float(x4)],[float(cur_y), float(y2), float(y3), float(y4)]]))
             cur_path += 'C ' + x2 + ' ' + y2 + ' '+ x3 + ' ' + y3 + ' ' + x4 + ' ' + y4 + ' '
             cur_x = x4
@@ -107,12 +110,13 @@ def parse_svg_abs(svg_c):
     return new_paths, new_paths_lengths
 
 # fontid_list = ['02', '12', '41']
-fontid_list = ['18r']
+fontid_list = ['35', '57', '35_57_3', '35_57_5', '35_57_7']
 
 for fontid in fontid_list:
     if not os.path.exists('./font_' + fontid):
         os.mkdir('./font_' + fontid)
-    for data_split in {'syn', 'gt'}:
+    for data_split in {'syn'}:
+    #for data_split in {'syn', 'gt'}:
         input_dir = './font_' + fontid + '_raw/' + data_split + '/'
         out_dir = 'font_' + fontid + '/' + data_split + '/'
         if not os.path.exists(out_dir):
