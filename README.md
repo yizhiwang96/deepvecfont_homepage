@@ -293,6 +293,13 @@ Outlines:
 	<img src="imgs/font_35_57_3/syn/35_57_3_00.svg">
 	<img src="imgs/font_35_57_3/syn/35_57_3_15.svg"> 
 	<img src="imgs/font_35_57_3/syn/35_57_3_07.svg"> 	
+	<img src="imgs/font_35_57_3/syn/35_57_3_21.svg"> 
+	<img src="imgs/font_35_57_3/syn/35_57_3_30.svg"> 
+	<img src="imgs/font_35_57_3/syn/35_57_3_28.svg"> 
+	<img src="imgs/font_35_57_3/syn/35_57_3_05.svg"> 
+	<img src="imgs/font_35_57_3/syn/35_57_3_40.svg">
+	<img src="imgs/font_35_57_3/syn/35_57_3_39.svg"> 
+	<img src="imgs/font_35_57_3/syn/35_57_3_45.svg"> 
 	<br/>
 	<img src="imgs/font_35_57_5/syn/35_57_5_18.svg"> 
 	<img src="imgs/font_35_57_5/syn/35_57_5_08.svg"> 
@@ -301,7 +308,14 @@ Outlines:
 	<img src="imgs/font_35_57_5/syn/35_57_5_17.svg">
 	<img src="imgs/font_35_57_5/syn/35_57_5_00.svg">
 	<img src="imgs/font_35_57_5/syn/35_57_5_15.svg"> 
-	<img src="imgs/font_35_57_5/syn/35_57_5_07.svg"> 	
+	<img src="imgs/font_35_57_5/syn/35_57_5_07.svg"> 
+	<img src="imgs/font_35_57_5/syn/35_57_5_21.svg"> 
+	<img src="imgs/font_35_57_5/syn/35_57_5_30.svg"> 
+	<img src="imgs/font_35_57_5/syn/35_57_5_28.svg"> 
+	<img src="imgs/font_35_57_5/syn/35_57_5_05.svg"> 
+	<img src="imgs/font_35_57_5/syn/35_57_5_40.svg">
+	<img src="imgs/font_35_57_5/syn/35_57_5_39.svg"> 
+	<img src="imgs/font_35_57_5/syn/35_57_5_45.svg">	
 	<br/>
 	<img src="imgs/font_35_57_7/syn/35_57_7_18.svg"> 
 	<img src="imgs/font_35_57_7/syn/35_57_7_08.svg"> 
@@ -310,7 +324,14 @@ Outlines:
 	<img src="imgs/font_35_57_7/syn/35_57_7_17.svg">
 	<img src="imgs/font_35_57_7/syn/35_57_7_00.svg">
 	<img src="imgs/font_35_57_7/syn/35_57_7_15.svg"> 
-	<img src="imgs/font_35_57_7/syn/35_57_7_07.svg"> 
+	<img src="imgs/font_35_57_7/syn/35_57_7_07.svg">
+	<img src="imgs/font_35_57_7/syn/35_57_7_21.svg"> 
+	<img src="imgs/font_35_57_7/syn/35_57_7_30.svg"> 
+	<img src="imgs/font_35_57_7/syn/35_57_7_28.svg"> 
+	<img src="imgs/font_35_57_7/syn/35_57_7_05.svg"> 
+	<img src="imgs/font_35_57_7/syn/35_57_7_40.svg">
+	<img src="imgs/font_35_57_7/syn/35_57_7_39.svg"> 
+	<img src="imgs/font_35_57_7/syn/35_57_7_45.svg"> 
 	<br/>
 	<img src="imgs/font_57/syn/57_18.svg"> 
 	<img src="imgs/font_57/syn/57_08.svg"> 
@@ -319,7 +340,14 @@ Outlines:
 	<img src="imgs/font_57/syn/57_17.svg">
 	<img src="imgs/font_57/syn/57_00.svg">
 	<img src="imgs/font_57/syn/57_15.svg"> 
-	<img src="imgs/font_57/syn/57_07.svg"> 	
+	<img src="imgs/font_57/syn/57_07.svg"> 
+	<img src="imgs/font_57/syn/57_21.svg"> 
+	<img src="imgs/font_57/syn/57_30.svg"> 
+	<img src="imgs/font_57/syn/57_28.svg"> 
+	<img src="imgs/font_57/syn/57_05.svg"> 
+	<img src="imgs/font_57/syn/57_40.svg">
+	<img src="imgs/font_57/syn/57_39.svg"> 
+	<img src="imgs/font_57/syn/57_45.svg"> 
 	<br/>
 </div>
 
