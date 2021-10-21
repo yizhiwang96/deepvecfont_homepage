@@ -505,4 +505,16 @@ Outlines:
 
 ## Citation:
 
-If you use this code or find our work is helpful, please consider citing our work
+If you use this code or find our work is helpful, please consider citing our work:
+```
+@inproceedings{wang2021deepvecfont,
+ author = {Wang, Yizhi and Lian, Zhouhui},
+ title = {DeepVecFont: Synthesizing High-quality Vector Fonts via Dual-modality Learning},
+ journal = {ACM Transactions on Graphics},
+ numpages = {15},
+ volume={40},
+ number={6},
+ month = December,
+ year = {2021},
+ doi={10.1145/3478513.3480488}
+}
