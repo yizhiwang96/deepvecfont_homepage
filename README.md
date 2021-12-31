@@ -5,6 +5,8 @@ This is the homepage for "DeepVecFont: Synthesizing High-quality Vector Fonts vi
 
 **Paper:** [**Arxiv**](https://arxiv.org/abs/2110.06688)
 
+**Code:** [**Supplementary**](./pdfs/deepvecfont_sm.pdf)
+
 **Code:** [**GitHub**](https://github.com/yizhiwang96/deepvecfont)
 
 Video: 
